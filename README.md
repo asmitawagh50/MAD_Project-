@@ -1,1 +1,1 @@
-# MAD_Project-
+Android based Women's Safety App
